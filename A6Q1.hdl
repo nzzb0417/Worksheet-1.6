@@ -1,0 +1,5 @@
+CHIP A6Q1 {
+    IN A,B;
+    OUT X;
+    PARTS:
+}
